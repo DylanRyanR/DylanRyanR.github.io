@@ -5,6 +5,7 @@ public class myTest {
         for (int i =0;i<3;i++)
         {
             System.out.println("Hello World X "+i);
+            System.out.print("this is a test!");
         }
     }
 }
